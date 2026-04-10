@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "skills": {
+    "bugfix-workflow": {
+      "source": "MingYuePop/SpecForge",
+      "sourceType": "github",
+      "computedHash": "99d625dba06204a8fa7964813be42ccc09b4d345c0da6e41129ba14d86f961a5"
+    },
+    "feature-auto-pipeline": {
+      "source": "MingYuePop/SpecForge",
+      "sourceType": "github",
+      "computedHash": "d3f97b812060b5189a3afc468453f54ca244544ec90adb6f67ee00fe0b27c782"
+    },
+    "feature-evolution": {
+      "source": "MingYuePop/SpecForge",
+      "sourceType": "github",
+      "computedHash": "ae8376dae348ba3a6aa074f830ca74e7382912ba2d36177f576340d1d5f3875d"
+    },
+    "feature-implementation": {
+      "source": "MingYuePop/SpecForge",
+      "sourceType": "github",
+      "computedHash": "ccb7de093d4ed17dd614e8dd86c65897d032b4c5457dad57c3d4ce52f16433fb"
+    },
+    "feature-requirements-clarification": {
+      "source": "MingYuePop/SpecForge",
+      "sourceType": "github",
+      "computedHash": "795bc2762ea799359164f02e8e4cac9ad0dfbc1516fd7b9021d1ae33f54291e3"
+    },
+    "feature-task-planning": {
+      "source": "MingYuePop/SpecForge",
+      "sourceType": "github",
+      "computedHash": "c5962225413654f0b81783f7d06dbadea97b935b003a39aaf21c5f21d373bcec"
+    },
+    "feature-tech-design": {
+      "source": "MingYuePop/SpecForge",
+      "sourceType": "github",
+      "computedHash": "7925da8dcbef48327dc3af0a707a180b506c02f0104ed1cfe04560e1a387ef1a"
+    },
+    "project-dev-standards": {
+      "source": "MingYuePop/SpecForge",
+      "sourceType": "github",
+      "computedHash": "c1e2374fa34b8dce6b72cde012a1084be6dd9cda9f8c9cac6f722029d8a4aa7d"
+    },
+    "project-initialization": {
+      "source": "MingYuePop/SpecForge",
+      "sourceType": "github",
+      "computedHash": "1cb1e2ae67c5808f86298609ce23b0bf711115dc72e4380de8940ad4a573c665"
+    },
+    "project-product-overview": {
+      "source": "MingYuePop/SpecForge",
+      "sourceType": "github",
+      "computedHash": "617bc8f7f36a24d2e0b85bf9d7241d36701742382fdf6e2cdf9933523f0d494d"
+    },
+    "project-requirements-clarification": {
+      "source": "MingYuePop/SpecForge",
+      "sourceType": "github",
+      "computedHash": "908f4576f053bce4c9c89e02aa98c2dc86d95d07c63f45a6ab1100e4b5f87e5c"
+    },
+    "project-roadmap-planning": {
+      "source": "MingYuePop/SpecForge",
+      "sourceType": "github",
+      "computedHash": "ad0056a3501246d5c4900a1fd2b614cd84c9082467d64bdd8730f0e92b1f8eff"
+    },
+    "project-structure": {
+      "source": "MingYuePop/SpecForge",
+      "sourceType": "github",
+      "computedHash": "2eabea9e87721ab00c234599c502c2951b6e829c973f377bb99efdba62cb8e4f"
+    },
+    "project-tech-stack": {
+      "source": "MingYuePop/SpecForge",
+      "sourceType": "github",
+      "computedHash": "6aabf2bbd1a65e1b4806ba5ce7315873091d9f8bb69b72630f3e0079d87b535a"
+    }
+  }
+}
